@@ -12,4 +12,4 @@ Nasser Kaffeesatz klumpt, schimmelt und lässt sich kaum gleichmäßig verteilen
 
 ![Picture](https://github.com/MakeMagazinDE/Kaffeesatztrockner/blob/master/Kaffeesatztrockner.png)
 
-Den vollständigen Artikel mit der Bauanleitung gibt es in der [Make-Ausgabe 7/26 ab Seite XX](https://www.heise.de/select/make/2026/7). Hier finden Sie die 3D-Druckdateien für die Motor- und Lüfterhalterung.
+Den vollständigen Artikel mit der Bauanleitung gibt es in der [Make-Ausgabe 7/26 ab Seite XX](https://www.heise.de/select/make/2026/7). Hier finden Sie die 3D-Druckdateien für die Motor- und Lüfterhalterung sowie für die Kupplung am Kübelboden.
